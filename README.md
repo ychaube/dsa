@@ -2,7 +2,7 @@
 
 ## Array
 1. Easy
-    1. [roman-to-integer](https://leetcode.com/problems/roman-to-integer/)
+    1. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
     2. [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
     3. [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
     4. [remove-element](https://leetcode.com/problems/remove-element/)
